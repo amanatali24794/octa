@@ -1,0 +1,13 @@
+:root {
+  --primary-color: #0077FF;
+  --light-blue-color: #77B5FE;
+  --dark-blue-color: #0044CC;
+  --accent-blue-color: #00C4FF;
+  --neutral-gray-color: #C4C4C4;
+}
+
+body{
+  height: 2000px;
+  overflow-x: hidden;
+  margin: 0;
+}

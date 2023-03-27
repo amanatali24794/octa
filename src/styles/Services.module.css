@@ -1,0 +1,31 @@
+.services-title{
+    text-align: center;
+    width: 100%;
+}
+.services-container {
+
+    margin: 50px 0;
+    z-index: 10;
+    width: 80%
+}
+
+.services-image {
+    margin-right: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.services-list {
+    display: flex;
+}
+
+.services-left,
+.services-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 50px;
+}
